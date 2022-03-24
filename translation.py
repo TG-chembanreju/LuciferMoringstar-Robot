@@ -7,25 +7,23 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 My Dev : [𝙏𝙂 𝙋𝙐𝙎𝙃𝙋𝘼 𝙍𝙀𝙅𝙐🇮🇳[OFFLINE]](t.me/pushpa_Reju)
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+📦 My Source : [Click Here](https://github.com/TG-chembanreju)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+📺 My Group : [Ckick Here](https://t.me/crimebhavani4)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗃️ My Library : [Pyrogram]
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
+🖇️ My Language : [Python3]
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ My Database : [Mongodb]
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
+🗳️ My Server : [Heroku]
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
-
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
